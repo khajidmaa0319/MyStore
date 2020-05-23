@@ -1,0 +1,26 @@
+[
+    {
+      "type": "A Day",
+      "price": 250
+    },
+    {
+      "type": "2 Days",
+      "price": 500
+    },
+    {
+      "type": "A Week",
+      "price": 750
+    },
+    {
+      "type": "Two Weeks",
+      "price": 1000
+    },
+    {
+      "type": "A Month",
+      "price": 1500
+    },
+    {
+      "type": "Postal",
+      "price": 600
+    }
+  ]
